@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Godzilla",
+        "location": "Tokyo Japan",
+        "films": "Godzilla Franchise"
+    },
+    {
+        "name": "King Kong",
+        "location": "Skull Island",
+        "films": "King Kong Franchise"
+    },
+    {
+        "name": "Jaws",
+        "location": "Amity Island",
+        "films": "Jaws Franchise"
+    }
+]
